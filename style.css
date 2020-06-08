@@ -41,7 +41,7 @@ nav ul li a:hover{
     text-decoration: none;
 }
 nav ul li.active{
-    text-decoration: underline;
+    border-bottom:2px solid #fff;
 }
 .btn{
     text-transform: uppercase;
@@ -86,7 +86,7 @@ header .container{
 } */
 
 header .header-text{
-    padding: 250px 0  0 100px;
+    padding: 350px 0  0 100px;
     margin: 0 auto;
     color: #fff;
 }
