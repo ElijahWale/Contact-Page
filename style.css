@@ -74,21 +74,27 @@ header .container{
     margin: 0;
     padding: 0;
     height: 100vh;
+    
 }
-/* .overlay{
+header{
+    position: relative;
+}
+.overlay{
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
     background-color: #212529;
-    opacity: .3;
-} */
+    opacity: .6;
+}
 
 header .header-text{
     padding: 350px 0  0 100px;
     margin: 0 auto;
     color: #fff;
+    position: relative;
+    z-index: 1;
 }
 .header-text p{
      font-family: 'Montserrat', sans-serif;
