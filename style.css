@@ -66,7 +66,7 @@ nav.scrolled{
 }
 /* header section */
 header .container{
-    background-image: url('https://res.cloudinary.com/elijahwale/image/upload/v1591628091/bg_bdy65d.png');
+    background-image: url('https://res.cloudinary.com/elijahwale/image/upload/v1591659859/photo-1574987405618-290505bd933f_1_koj10s.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -90,7 +90,7 @@ header{
 }
 
 header .header-text{
-    padding: 350px 0  0 100px;
+    padding: 300px 0  0 100px;
     margin: 0 auto;
     color: #fff;
     position: relative;
